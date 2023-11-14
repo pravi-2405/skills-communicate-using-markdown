@@ -1,5 +1,10 @@
 # <H1> header file as praveena
 ## <H2> header file as pruthvi
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ### <H3> header file as menaka
 #### <H4> header file as sankar
 
