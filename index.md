@@ -2,10 +2,21 @@
 ## <H2> header file as pruthvi
 ### <H3> header file as menaka
 #### <H4> header file as sankar
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` c++
+string myVar = "Hello, world!";
+```
 ##### <H5> header file as naidu
 ###### <H6> header file as batta
 
-
+``` javascript
+var myVar = "Hello, world!";
+```
 
 ###### ![Image of fintechtocat](https://octodex.github.com/images/Fintechtocat.png)
 
