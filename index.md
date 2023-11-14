@@ -7,6 +7,6 @@
 
 
 
-
+###### ![Image of fintechtocat](https://octodex.github.com/images/Fintechtocat.png)
 
 # I have made changes to file by adding headers using my family names.
